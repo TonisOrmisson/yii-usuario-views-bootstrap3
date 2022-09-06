@@ -1,0 +1,69 @@
+{
+    "name": "2amigos/yii-usuario-views-bootstrap2",
+    "description": "Bootstrap 2 views for 2amigos/yii-usuario",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "2amigos",
+        "yii",
+        "yii2",
+        "yii 2",
+        "yii framework",
+        "user",
+        "access",
+        "rbac",
+        "acl",
+        "backend",
+        "yii2-user",
+        "yii2 user",
+        "user management"
+    ],
+    "authors": [
+        {
+            "name": "2amigOS! Consulting Group",
+            "email": "hola@2amigos.us",
+            "homepage": "https://2amigos.us",
+            "role": "Developer"
+        },
+        {
+            "name": "Antonio Ramirez Cobos",
+            "email": "hola@2amigos.us",
+            "homepage": "https://2amigos.us",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.5",
+        "2amigos/yii2-selectize-widget": "^1.1",
+        "yiisoft/yii2-bootstrap": "^2.0"
+    },
+    "require-dev": {
+        "php": ">=7.4",
+        "friendsofphp/php-cs-fixer": "^3",
+        "squizlabs/php_codesniffer": "*",
+        "phpmd/phpmd": "@stable",
+        "phpstan/phpstan": "^1.8"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        },
+        "preferred-install": {
+            "*": "auto"
+        },
+        "fxp-asset": {
+            "enabled": false
+        },
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
