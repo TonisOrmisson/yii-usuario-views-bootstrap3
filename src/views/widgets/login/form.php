@@ -34,6 +34,7 @@ use yii\widgets\ActiveForm;
             'validateOnChange' => false,
         ]
     ) ?>
+
     <?= $form->field($model, 'login')->textInput(['placeholder' => Yii::t('usuario', 'Login')]) ?>
 
     <?= $form->field($model, 'password')->passwordInput(['placeholder' => Yii::t('usuario', 'Password')]) ?>

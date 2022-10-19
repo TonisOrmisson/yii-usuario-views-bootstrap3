@@ -1,36 +1,13 @@
 {
-    "name": "2amigos/yii-usuario-views-bootstrap2",
-    "description": "Bootstrap 2 views for 2amigos/yii-usuario",
+    "name": "usuario/yii-usuario-views-bootstrap3",
+    "description": "Bootstrap 3 views for 2amigos/yii-usuario",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "keywords": [
-        "2amigos",
         "yii",
         "yii2",
-        "yii 2",
-        "yii framework",
-        "user",
-        "access",
-        "rbac",
-        "acl",
-        "backend",
-        "yii2-user",
-        "yii2 user",
-        "user management"
-    ],
-    "authors": [
-        {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "https://2amigos.us",
-            "role": "Developer"
-        },
-        {
-            "name": "Antonio Ramirez Cobos",
-            "email": "hola@2amigos.us",
-            "homepage": "https://2amigos.us",
-            "role": "Developer"
-        }
+        "usuario",
+        "yii2-usuario"
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,

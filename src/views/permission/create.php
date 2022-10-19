@@ -13,7 +13,7 @@
  * @var yii\web\View $this
  * @var Da\User\Model\Permission $model
  * @var string[] $unassignedItems
- * @var Da\User\Module $module
+ * @var \Da\User\Module $module
  */
 
 $this->title = Yii::t('usuario', 'Create new permission');

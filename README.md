@@ -1,2 +1,2 @@
-# yii-usuario-views-bootstrap2
-Bootstrap 2 views for yii2-usuario module
+# yii-usuario-views-bootstrap3
+Bootstrap 3 views for yii2-usuario module

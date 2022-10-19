@@ -13,9 +13,8 @@
  * @var \yii\data\ActiveDataProvider $dataProvider
  * @var yii\web\View $this
  * @var \Da\User\Search\PermissionSearch $searchModel
- * @var Da\User\Module $module
+ * @var \Da\User\Module $module
  */
-
 use yii\grid\ActionColumn;
 use yii\grid\GridView;
 use yii\helpers\Url;

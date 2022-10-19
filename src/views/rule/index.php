@@ -9,6 +9,7 @@ use yii\rbac\Rule;
  * @var \yii\data\ActiveDataProvider $dataProvider
  * @var \Da\User\Search\RuleSearch $searchModel
  * @var yii\web\View $this
+ * @var \Da\User\Module $module
  */
 
 $this->title = Yii::t('usuario', 'Rules');
