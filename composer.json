@@ -16,16 +16,9 @@
         "2amigos/yii2-selectize-widget": "^1.1",
         "yiisoft/yii2-bootstrap": "^2.0"
     },
-    "require-dev": {
-        "php": ">=7.4",
-        "friendsofphp/php-cs-fixer": "^3",
-        "squizlabs/php_codesniffer": "*",
-        "phpmd/phpmd": "@stable",
-        "phpstan/phpstan": "^1.8"
-    },
     "config": {
         "platform": {
-            "php": "7.4"
+            "php": "5.5.0"
         },
         "preferred-install": {
             "*": "auto"
