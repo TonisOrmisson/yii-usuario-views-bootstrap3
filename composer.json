@@ -1,5 +1,5 @@
 {
-    "name": "usuario/yii-usuario-views-bootstrap3",
+    "name": "yii-usuario/yii-usuario-views-bootstrap3",
     "description": "Bootstrap 3 views for 2amigos/yii-usuario",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
